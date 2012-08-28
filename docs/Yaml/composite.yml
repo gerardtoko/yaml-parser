@@ -1,0 +1,14 @@
+
+#array sequence
+array_sequence : [jquery.js, script.js, style.css]
+
+array_sequence : [jquery.js,
+                 script.js,
+                 style.css]
+                 
+#array collection
+array_collection : { script1 : jquery.js, script2 : script.js, style : style.css }
+
+array_collection : { script1 : jquery.js,
+                    script2 : script.js,
+                    style : style.css }

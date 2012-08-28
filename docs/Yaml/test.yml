@@ -1,0 +1,116 @@
+
+Stdring:
+    - 13
+    - 12.2
+    - -13
+    - -12.2
+    - null
+    - false
+    - true
+    - [a, zeze, ezz]
+    - "fealse"
+Zero: 0
+arrayCollection2 : {
+script1 : jquery.js,
+script2 : script.js,
+style : style.css }
+#String: Anyone's name, really.
+#Stringggfez: "Anyone's ffghghz
+#  ne's ffghghz ne's ffghghz
+#    ne's ffghghzne's ffghghz
+#    a name, really."
+#Int: 13
+#Zero: 0
+#
+#Negative: -90
+#Float: 5.34
+#
+#SmallFloat: -0.7
+#false: false
+#arrayCollection2 : {
+#script1 : jquery.js,
+#script2 : script.js,
+#style : style.css }
+#arraySequenceMultiLine : [ true, false ,
+#    23 , 5.34,
+#    1, null,
+#  NotBool, false,
+#  NotInt,5,
+#style.css ]
+#True: true
+#FALSE: FALSE
+#TRUE:  TRUE
+#
+#Null: NULL
+#NotNull: 'null'
+#NotTrue: 'true'
+#NotBool: 'false'
+#NotInt: '5'
+#Notflaot: '5.1'
+#arraySequence : [jquery.js, script.js, style.css]
+#
+#arrayCollection : { script1 : jquery.js, script2 : script.js, style : style.css }
+
+
+#arraySequenck: {jquery.lab: true,script.js: ml,
+#slideshwo.js:a,slideshwo.js:a,
+#  DD:a, NotTfruetrue:a,
+#NotBool:a, false:a,
+#NotInt:a,5:a
+#style.css:a}
+#Stringgg: "start d dsdsddsds
+#Anyone's f
+#    fghghza n
+#        ame, real
+#        fghghza n ame, realfghghza n
+#        ame, realfghghza n
+#        ame, realfghghza n
+#        amdzefefeefzfeze, realfghghza n
+#        ame, real
+#fghghza n
+#        ame, realvfghghza n
+#        ame, realfghghza n
+#        ame, realfghghza n
+#              dzczdcend"
+
+#String: Anyone's name, really.
+#Stringgg: "Anyone's ffghghza name, really."
+#Int: 13
+#Negative: -90
+#Float: 5.34
+#SmallFloat: -0.7
+#false: false
+#True: true
+#FALSE: FALSE
+#TRUE:  TRUE
+#Zero: 0
+#Null: NULL
+#NotNull: 'null'
+#NotTrue: 'true'
+#NotBool: 'false'
+#NotInt: '5'
+#Notflaot: '5.1'
+#arraySequence : [jquery.lab, script.js, style.css]
+#arrayCollection : { a:ed , b:grg , c:rgrg }
+
+
+#
+#Stdring:
+#    - 13
+#    - 12.2
+#    - -13
+#    - -12.2
+#    - null
+#    - false
+#    - true
+#    - [a, zeze, ezz]
+#    - "fealse"
+#Njjull: "gerard"
+#Fallkse:
+#    Null: TRUE
+#    False: "fealse"
+#Nlhllull: "gerard"
+#Fadllkse:
+#    Null: "fealsep"
+#    False:
+       # Nlhllull: "gerard"

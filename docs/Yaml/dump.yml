@@ -1,0 +1,8 @@
+#result dump
+scalairs: 
+		Int: 3
+		Float: 3.34
+		String: foo
+composite: 
+		- sequence
+		- mapping

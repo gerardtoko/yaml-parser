@@ -1,0 +1,16 @@
+#comments
+
+arraySequence : [{a: jquery.jsss}, script.jsss, {b: style.csssss} ]
+text2: ff
+ss : "ezfezfezezfzefzefzefzefze 
+  ezfzefezfezfzefez"
+arraySequences : [jquery.jsss,script.jsss, style.csssss]
+extends: __extends(arraySequence)
+#
+#string:
+#    text: "add user"
+#    # bettween comments
+#    text2: add . "yes"
+#    constant: __constant(APP_ROOT)
+#    arraySequence2 : [1, script.js, true]
+#extends: __extends(arraySequence2)

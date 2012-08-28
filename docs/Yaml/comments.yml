@@ -1,0 +1,18 @@
+# config.yml file
+
+# comments
+
+# number
+int: 13
+negative: -90
+float: 5.34
+
+# string
+string:
+    text: "add user"
+    text2: add
+
+# array
+array_sequence : [jquery.js, script.js, style.css]
+array_coposite : {cache: true, session: true}
+
